@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Server"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/server/wildfly-25.0.1.Final/bin/client/jboss-cli-client.jar"/>
+	<classpathentry kind="lib" path="C:/server/wildfly-25.0.1.Final/bin/client/jboss-client.jar" sourcepath="C:/server/wildfly-25.0.0.Final/bin/client/jboss-client.jar"/>
+	<classpathentry kind="lib" path="C:/server/wildfly-25.0.1.Final/modules/system/layers/base/org/hibernate/main/hibernate-core-5.3.23.Final.jar"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
